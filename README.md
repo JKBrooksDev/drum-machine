@@ -16,7 +16,8 @@ A responsive, interactive drum machine built with React and Vite. Users can trig
 - CSS
 
 ## Live Demo
-(Coming soon — will be added after deployment)
+[Click here to view the live site](https://drum-machine-five-steel.vercel.app/)
+
 
 ## How to Run Locally
 ```bash
